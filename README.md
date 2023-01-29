@@ -10,4 +10,4 @@ This is a demo and might be filled with many mistakes such as:
 
 # My First Gist
 
-This will be the first code I will share: [My Code] ()
+This will be the first code I will share: [My Code] (https://gist.github.com/ChristianOtaru/e98269cfa734a3dc377669ffa3b412d9)
